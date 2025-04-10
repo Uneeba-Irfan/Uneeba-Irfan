@@ -5,6 +5,6 @@ I'm a **Data Analytics graduate** passionate about turning data into actionable 
 
 ## 🚀Tools: 
 - **Python**(Numpy, Pandas, Matplotlib, Seaborn, Pytorch, scikit-learn)
-- **SQL**
+- **SQL**(MySQL)
 - **Microsoft Power BI**
 - **Microsoft Excel**
